@@ -1,0 +1,43 @@
+[
+  {
+    "description": "search test the keyword",
+    "keyword": "Feature",
+    "name": "Google website testing",
+    "line": 2,
+    "id": "google-website-testing",
+    "tags": [
+      {
+        "name": "@firstfeature",
+        "line": 1
+      }
+    ],
+    "uri": "rahulshetty.feature",
+    "elements": [
+      {
+        "id": "google-website-testing;test-the-google-search-bar",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "Test the google search bar",
+        "tags": [
+          {
+            "name": "@firstfeature",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "User open the browser",
+            "result": {
+              "status": "passed",
+              "duration": 50000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

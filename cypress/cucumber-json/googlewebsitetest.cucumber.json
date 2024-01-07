@@ -1,0 +1,63 @@
+[
+  {
+    "description": "search test the keyword",
+    "keyword": "Feature",
+    "name": "Google website testing",
+    "line": 1,
+    "id": "google-website-testing",
+    "tags": [],
+    "uri": "googlewebsitetest.feature",
+    "elements": [
+      {
+        "id": "google-website-testing;test-the-google-search-bar",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "Test the google search bar",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "User open the browser",
+            "result": {
+              "status": "passed",
+              "duration": 92000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "User enters the url of the website",
+            "result": {
+              "status": "passed",
+              "duration": 1146000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "User checks tht title of the page",
+            "result": {
+              "status": "passed",
+              "duration": 40000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "User verfies the url has a text",
+            "result": {
+              "status": "passed",
+              "duration": 34000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

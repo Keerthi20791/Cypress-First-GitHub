@@ -23,7 +23,7 @@
             "name": "User open the browser",
             "result": {
               "status": "passed",
-              "duration": 92000000
+              "duration": 27000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "User enters the url of the website",
             "result": {
               "status": "passed",
-              "duration": 1146000000
+              "duration": 1209000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "User checks tht title of the page",
             "result": {
               "status": "passed",
-              "duration": 40000000
+              "duration": 46000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "User verfies the url has a text",
             "result": {
               "status": "passed",
-              "duration": 34000000
+              "duration": 41000000
             }
           }
         ]

@@ -33,7 +33,7 @@
             "name": "User open the browser",
             "result": {
               "status": "passed",
-              "duration": 50000000
+              "duration": 43000000
             }
           }
         ]
